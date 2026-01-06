@@ -11,8 +11,7 @@
 
 .container {
   margin: 0 auto;
-  width: 71%;
-  max-width: 1600px;
+  width: 1600px;
 }
 .display {
   display: flex;
@@ -52,6 +51,11 @@ nav ul li a {
   color: #fd6e0a;
 }
 /* hero */
+.hero-content {
+  width: 71%;
+  padding-left: 230px;
+  padding-right: 38px;
+}
 .hero-text h2 {
   color: #757575;
   font-weight: 600px;
@@ -71,6 +75,9 @@ nav ul li a {
 .btn-gap {
   margin-right: 30px;
 }
+.hero-pic {
+  padding-left: 180px;
+}
 .hero-pic img {
   width: 584px;
   vertical-align: bottom;
@@ -81,4 +88,31 @@ header {
     url("../images/header_bg.png");
   background-repeat: no-repeat;
   background-position: top 15px left 23px, bottom right;
+}
+/* about */
+.about {
+  width: 71%;
+  margin: 130px auto;
+  background-color: #fff8f3;
+  border-radius: 5px;
+}
+.about-content {
+  text-align: center;
+  padding: 131px 156px;
+}
+.about-info{
+  width: 782px;
+  margin: 0 auto;
+}
+.about-content h3 {
+  font-weight: bold;
+  font-size: 35px;
+  color: #181818;
+  margin-bottom: 30px;
+}
+.about-content p {
+  font-size: 18px;
+  color: #757575;
+  line-height: 30px;
+  margin-bottom: 30px;
 }
