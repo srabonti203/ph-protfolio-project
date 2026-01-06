@@ -258,3 +258,42 @@ header {
 hr {
   margin-bottom: 30px;
 }
+/* footer */
+footer {
+  background-color: #fff8f3;
+}
+.footer-content {
+  gap: 117px;
+  width: 1140px;
+  margin: 0 auto;
+  padding: 130px 0;
+}
+.contact h4,
+.form h4 {
+  font-weight: bold;
+  color: #181818;
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+.contact p {
+  width: 562px;
+  line-height: 28px;
+  font-size: 16px;
+  color: #757575;
+}
+.socials {
+  width: 120px;
+  gap: 24px;
+  margin-top: 30px;
+}
+#name,
+#email,
+#message {
+  width: 461px;
+  height: 64px;
+  padding: 30px 18px;
+  margin-bottom: 24px;
+}
+#message {
+  height: 180px;
+}
