@@ -52,10 +52,6 @@ nav ul li a {
   color: #fd6e0a;
 }
 /* hero */
-.hero-text {
-  /* padding-left: 71px; */
-  /* padding-bottom: 159px; */
-}
 .hero-text h2 {
   color: #757575;
   font-weight: 600px;
@@ -84,5 +80,5 @@ header {
   background-image: url("../images/developer.png"),
     url("../images/header_bg.png");
   background-repeat: no-repeat;
-  background-position: bottom 25px left 23px, bottom right;
+  background-position: top 15px left 23px, bottom right;
 }
