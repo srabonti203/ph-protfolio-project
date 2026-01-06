@@ -293,6 +293,8 @@ footer {
   height: 64px;
   padding: 30px 18px;
   margin-bottom: 24px;
+  border: none;
+  border-radius: 5px;
 }
 #message {
   height: 180px;
