@@ -213,3 +213,48 @@ header {
   width: 204px;
   color: #757575;
 }
+/* resume */
+.resume {
+  max-width: 71%;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 113px;
+}
+.resume h3 {
+  font-weight: bold;
+  font-size: 35px;
+  color: #181818;
+  margin-bottom: 113px;
+}
+.ex-edu {
+  text-align: left;
+  gap: 24px;
+  padding-bottom: 20px;
+}
+.ex-edu .education h5,
+.ex-edu .experience h5 {
+  font-weight: bold;
+  color: #181818;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.ex-edu h6 {
+  font-weight: bold;
+  color: #181818;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.ex-edu .m1 {
+  font-size: 20px;
+  font-weight: 600px;
+  color: #757575;
+  margin-bottom: 20px;
+}
+.ex-edu p {
+  font-size: 20px;
+  color: #757575;
+  margin-bottom: 30px;
+}
+hr {
+  margin-bottom: 30px;
+}
